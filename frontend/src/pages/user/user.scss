@@ -1,0 +1,11 @@
+@import "../../styles/responsive.scss";
+
+.user {
+    @include xxxl {
+        width: 90%
+    }
+
+    @include xxl {
+        width: 90%
+    }
+}
